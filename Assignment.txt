@@ -1,0 +1,32 @@
+Assignment -01
+	1 - To create A random password of any special chracters 
+        2 - With help of random password to create registration form and login form
+        3 - Including random password phone no.
+-----------------------
+
+Assignment -02
+        1 - Create a gym website with scrolling effect.
+
+-----------------------
+
+Assignment -03
+        1 - Create a website as like gym but different format.
+        2 - Create a website Food and Restaurant. 
+        3 - Create a website preview website to check in downloads.
+
+-----------------------
+
+Projects :
+
+1. we create a projects about multi-page following website.
+
+
+notes 
+ 
+   1 announcement updates like as dynamic..
+   2 new sandheadline section all commands
+   3 whn publish it
+   4 only active button on
+   5 data filter 
+   6 to add the events
+

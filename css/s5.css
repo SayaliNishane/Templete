@@ -1,0 +1,55 @@
+body
+{
+    padding: 0;
+    margin: 0;
+}
+.logo
+{
+    font-size: 15px;
+    color: red;
+    
+}
+.nav
+{
+    background-color:rgba(0, 0, 0, 0.288);
+    opacity: 80%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-left: 10px;
+    padding-right: 20px;
+    position: fixed;
+    width: 98%;
+}
+
+.nav-items > a
+{
+    
+    color: white;
+    text-decoration: none;
+    margin-left: 10px;
+    margin-right: 10px;
+
+}
+.nav-items > a:hover {
+    background-color: orange;
+    border-radius: 5px;
+}
+.img
+{
+    max-width: 100vw;
+    background-size: cover;
+    
+    align-items: center;
+}
+.img-1
+{
+    width: 100%;
+    
+}
+.overlay
+{
+    background-color: gray;
+    opacity: 85%;
+    
+}
